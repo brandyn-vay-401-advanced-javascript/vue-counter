@@ -17,6 +17,7 @@ It is a front-end only and is allows intants change to the DOM.
 #### Pros
 
 - Vary simaler to React
+
 - Documentation was easy to read
 
 #### Cons
