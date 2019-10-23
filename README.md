@@ -2,7 +2,7 @@
 
 ## Vue.js
 
-### Research Conducted By: Adrienne Easton, Brabdyn Vay, and Liz Kavalski
+### Research Conducted By: Adrienne Easton, Brandyn Vay, and Liz Kavalski
 
 ### Overall Score and Comments
 
@@ -49,8 +49,8 @@ According to [Medium](https://towardsdatascience.com/react-vs-vue-which-is-bette
 - [docs](https://vuejs.org/v2/guide/)
 - [examples/tutorials](https://vuejs.org/v2/examples/) or look at examples in the docs
 - [Code Demos](https://vuejs.org/v2/examples/) or look at examples in the docs.
-  **[live/running application]() need the link**
-  **[code repository]() need the link**
+  **[live/running application](https://counter-vue.herokuapp.com/)
+  **[code repository](https://github.com/brandyn-vay-401-advanced-javascript/vue-counter)
 
 #### Operating Instructions
 
