@@ -24,14 +24,12 @@ export default {
     }
   },
   mounted() {
-    console.log('App mounted!')
     if (localStorage.getItem('count'))
       this.count = JSON.parse(localStorage.getItem('count'))
   },
   watch: {
     count: {
       handler() {
-        console.log('Count changed!')
         localStorage.setItem('count', JSON.stringify(this.count))
       },
       deep: true
